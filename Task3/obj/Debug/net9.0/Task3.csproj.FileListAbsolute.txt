@@ -1,0 +1,14 @@
+C:\Projects\Шаблоны тестового задания\Task3\bin\Debug\net9.0\Task3.exe
+C:\Projects\Шаблоны тестового задания\Task3\bin\Debug\net9.0\Task3.deps.json
+C:\Projects\Шаблоны тестового задания\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+C:\Projects\Шаблоны тестового задания\Task3\bin\Debug\net9.0\Task3.dll
+C:\Projects\Шаблоны тестового задания\Task3\bin\Debug\net9.0\Task3.pdb
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.dll
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\refint\Task3.dll
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.pdb
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+C:\Projects\Шаблоны тестового задания\Task3\obj\Debug\net9.0\ref\Task3.dll
